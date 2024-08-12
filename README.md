@@ -1,5 +1,7 @@
 # GitHub Repository Viewer
 
+![](./screenshots/app-screen.png)
+
 A GitHub repository that uses the GitHub API to fetch the repository with
 most stars which matches the provided search terms.
 
